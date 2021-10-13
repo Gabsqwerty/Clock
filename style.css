@@ -1,0 +1,23 @@
+body{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    box-sizing: border-box;
+    font-family: 'Teko', sans-serif;
+    
+
+}
+
+.clockContainer{
+    background-color: black;
+    width: 16rem;
+    height: 8rem;
+    color: dodgerblue;
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
